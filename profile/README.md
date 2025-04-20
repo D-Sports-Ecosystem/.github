@@ -19,17 +19,12 @@ At D-Sports, we’re passionate about hockey and the power of teamwork. Our cryp
 
 Want to join the D-Sports sports and crypto movement? Here’s how:
 
-* Join Us: Sign up on our [website](https://d-sports.org) to get started.
-* Contribute: Explore our open-source projects or submit ideas via [GitHub Issues](https://github.com/d-sports/issues).
-* Follow Us: Stay updated on social media (links coming soon!).
+- **Join Us**: Sign up on our [web app](https://app.d-sports.org) to get started.
+- **Follow Us**: Stay updated on social media:
+  - [X (Twitter)](https://x.com/The_DSports)
+  - [Instagram](https://www.instagram.com/theofficial_dsports/)
 
 [Visit D-Sports](https://d-sports.org)
-
----
-
-## 🎥 Sneak Peek
-
-See our PWA in action, blending hockey passion with crypto innovation!
 
 ---
 
