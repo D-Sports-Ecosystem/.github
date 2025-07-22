@@ -12,6 +12,7 @@ At D-Sports, we’re passionate about hockey and the power of teamwork. Our cryp
 
 [Website](https://d-sports.org)  
 [Progressive Web App](https://app.d-sports.org)
+[D-Sports Wallet SDK](https://github.com/D-Sports-Ecosystem/wallet)
 
 ---
 
