@@ -10,9 +10,9 @@ D-Sports is your hub for all your sports and blockchain solutions, uniting teams
 
 At D-Sports, we’re passionate about hockey and the power of teamwork. Our crypto-driven platform strengthens the hockey community by enabling seamless, secure, and innovative experiences for players and fans alike.
 
-[Website](https://d-sports.org)  
-[Progressive Web App](https://app.d-sports.org)
-[D-Sports Wallet SDK](https://github.com/D-Sports-Ecosystem/wallet)
+[Website](https://d-sports.org)    
+[Progressive Web App](https://app.d-sports.org)    
+[D-Sports Wallet SDK](https://github.com/D-Sports-Ecosystem/wallet)    
 
 ---
 
